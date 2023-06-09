@@ -1,6 +1,7 @@
-### Hi there 👋
 ![Header](./github-header-image.png)
 
+# Hi there 👋
+### This is my personal repo.
 <!--
 **varkoms/varkoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
