@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with all about backend development
 - 💬 Ask me about everything. I'll do my best to asnwer
 - 📫 How to reach me: by email or using my social media
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Your brain is constantly eating itself.
