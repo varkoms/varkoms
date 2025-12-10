@@ -1,7 +1,9 @@
 ## Hey there 👋
 
 Me llamo Cesar (mejor conocido como "El Tio Varko)
+
 Soy QA de vocación, pero Dev por naturaleza.
+
 Si hay un bug, lo encuentro. Si no, lo invento 😌 🇲🇽 ☕️
   
 ---
